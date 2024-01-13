@@ -1,0 +1,10 @@
+D:\下載\FibonacciBackgroundWorker\bin\Debug\FibonacciBackgroundWorker.exe.config
+D:\下載\FibonacciBackgroundWorker\bin\Debug\FibonacciBackgroundWorker.exe
+D:\下載\FibonacciBackgroundWorker\bin\Debug\FibonacciBackgroundWorker.pdb
+D:\下載\FibonacciBackgroundWorker\obj\Debug\FibonacciBackgroundWorker.csproj.AssemblyReference.cache
+D:\下載\FibonacciBackgroundWorker\obj\Debug\FibonacciBackgroundWorker.Form1.resources
+D:\下載\FibonacciBackgroundWorker\obj\Debug\FibonacciBackgroundWorker.Properties.Resources.resources
+D:\下載\FibonacciBackgroundWorker\obj\Debug\FibonacciBackgroundWorker.csproj.GenerateResource.cache
+D:\下載\FibonacciBackgroundWorker\obj\Debug\FibonacciBackgroundWorker.csproj.CoreCompileInputs.cache
+D:\下載\FibonacciBackgroundWorker\obj\Debug\FibonacciBackgroundWorker.exe
+D:\下載\FibonacciBackgroundWorker\obj\Debug\FibonacciBackgroundWorker.pdb
